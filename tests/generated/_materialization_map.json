@@ -1,0 +1,17 @@
+{
+  "file_map": {
+    "test_e2e_20260207_215728_01.py": "test_misc.py",
+    "test_integ_20260207_215728_01.py": "test_config.py",
+    "test_unit_20260207_215728_01.py": "test_models.py"
+  },
+  "source_stems": [
+    "config",
+    "misc",
+    "models"
+  ],
+  "stats": {
+    "input_files": 3,
+    "output_files": 3,
+    "removed": 3
+  }
+}
